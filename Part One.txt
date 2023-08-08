@@ -1,0 +1,9 @@
+1. HTTP or Hyper Text Transfer Protocol governs how data flows to and from a server
+2. A URL or Uniform Resource Locator is a human readable address for a webpage
+3. DNS or Domain Name System, takes a URL and converts it into an IP address
+4. A query string allows you to pass key value pairs into a URL
+5. 2 HTTP verbs are GET and POST. The first gets data from the server without making changes to the server. The latter sends data to the server and changes data on the server.
+6. An HTTP request is a request from a client to a server using the HTTP protocol.
+7. An HTTP response is a response from a server to a client using the HTTP protocol.
+8. An HTTP header provides additional information about the request or response. examples include Cookie, Host, Last-Modified, and Set-Cookie.
+9. When you type in a URL, the browser "resolves" the name into an IP address using DNS, then it maks a request to the IP address. The server then sends a response (HTML and status code) and the broswer maks a DOM from the HTML and pulls any images, css, javascript etc. with seprate HTTP requests for reach resource.
